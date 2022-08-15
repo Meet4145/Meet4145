@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/meet4145" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="meet4145" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_meet.01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="ig_meet.01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meet4145" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="meet4145" height="30" width="40" /></a>
+<a href="https://instagram.com/ig_meet.01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="ig_meet.01" height="30" width="40" /></a>
 <a href="https://discord.gg/Meet Patel#9399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Meet Patel#9399" height="30" width="40" /></a>
 </p>
 
