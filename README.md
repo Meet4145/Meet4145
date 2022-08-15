@@ -30,4 +30,4 @@ href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="norefe
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="photoshop" width="40" height="40"/> </a> 
   
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meet4145&" alt="meet4145" width="495" height="195"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meet4145&" alt="meet4145" width="495" height="95"/></p>
