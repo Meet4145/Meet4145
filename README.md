@@ -24,6 +24,10 @@ href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="photoshop" width="40" height="40"/> </a>                               <a
 href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="photoshop" width="40" height="40"/> </a>                                                                                                                       
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="photoshop" width="40" height="40"/> </a>                               
+<a
+href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="photoshop" width="40" height="40"/> </a> 
+  
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meet4145&" alt="meet4145" /></p>
