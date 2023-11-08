@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Meet P. Patel</h1>
 <h3 align="left">A hard-working student who is driven and can meet strict deadlines. Customer-focused, friendly, and good customer servicing skills. Ability to Work Under Pressure. A creative and passionate individual.</h3>
 
-- 🌱 I’m currently learning **C/C++, JavaScript**
+- 🌱 I’m currently Honing my DSA skills in C++**
 
 - 📫 How to reach me **meetpatel4145@gmail.com**
 
